@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "title": "Dish Diary",
+      "content": "A personal logbook app for food lovers to document their favorite dishes at various restaurants.",
+      "status": "In Progress",
+      "startDate": "2024-10-01",
+      "endDate": null,
+      "teamMembers": ["Peiyuhan", "Kexin"],
+      "tags": ["JavaScript", "Web Development", "Food"]
+    },
+    {
+      "id": 2,
+      "title": "Water Conservation Website",
+      "content": "An educational website explaining water conservation with interactive animations.",
+      "status": "Completed",
+      "startDate": "2024-11-10",
+      "endDate": "2024-11-30",
+      "teamMembers": ["Peiyuhan"],
+      "tags": ["HTML", "CSS", "JavaScript", "Environment"]
+    },
+    {
+      "id": 3,
+      "title": "Dessert Shop Database",
+      "content": "A database project for managing a dessert shop's inventory, orders, and customer data.",
+      "status": "In Progress",
+      "startDate": "2024-11-22",
+      "endDate": null,
+      "teamMembers": ["Peiyuhan"],
+      "tags": ["SQL", "Database Design", "Dessert Shop"]
+    },
+    {
+      "id": 4,
+      "title": "ETTA Search Engine Proposal",
+      "content": "A proposal to improve the ETTA search engine by refining search functionality and usability.",
+      "status": "Pending Review",
+      "startDate": "2024-12-02",
+      "endDate": null,
+      "teamMembers": ["Peiyuhan"],
+      "tags": ["Product Management", "UX Research", "Search Engine"]
+    }
+  ]
+  
+  
